@@ -10,7 +10,7 @@ function App() {
     <div className='container'>
       <TextForm heading="Enter text to analyze"/>
     </div>
-
+    
     </>
   );
 }
